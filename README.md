@@ -1,4 +1,4 @@
-A collection of LeetCode questions to ace the coding interview
+A Curated Collection of LeetCode Problems for Coding Interview Preparation
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
