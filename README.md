@@ -26,6 +26,7 @@ A Curated Collection of LeetCode Problems for Coding Interview Preparation
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Ojashwee07/LeetCode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ojashwee07/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
